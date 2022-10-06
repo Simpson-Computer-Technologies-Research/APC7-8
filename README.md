@@ -10,9 +10,6 @@
 <h3>Prize</h3>
 
 - Whoever develops the best program will win 20$
-- I will be using a point system to determine the winner..
-- This means that if you're code does not follow project requirements or the code is messy, slow and unorganized, you will lose points.
-
 
 <h3>Project Must Include</h3>
 
