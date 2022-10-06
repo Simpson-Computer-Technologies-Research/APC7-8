@@ -5,7 +5,7 @@
 - Learn how to create your own API using Golang
 
 
-# Week 3 and 4 Final Project
+# Week 7 and 8 Final Project
 
 <h3>Prize</h3>
 
