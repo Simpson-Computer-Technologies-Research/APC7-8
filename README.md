@@ -9,7 +9,7 @@
 
 <h3>Prize</h3>
 
-- Whoever develops the best program will win 20$
+- Whoever develops the best program will win 5$
 
 <h3>Project Must Include</h3>
 
